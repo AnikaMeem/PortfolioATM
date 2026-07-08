@@ -33,6 +33,7 @@
     ------------------------
 */
 
+/*
 // Define base and accent colors
 $base-color: #71BC78;
 $base-color-hover: darken($base-color, 10%);
@@ -47,6 +48,41 @@ $border: #ccd9ce;
 // Define text colors
 $heading: #00573F;
 $text: #748a7f;
+*/
+
+// ======================================
+// Sage Green Premium Theme
+// ======================================
+
+// Primary Brand Colors
+$base-color: #6F8F72;
+$base-color-hover: #5D7A60;
+
+// Accent Colors
+$accent-color: #BFD0BB;
+$accent-light: #DDE8DA;
+
+// Background Colors
+$background: #F8F7F3;
+$background-alt: #F2F4EF;
+$card-background: #FFFFFF;
+
+// Border Colors
+$border: #D8E1D5;
+$border-light: #E9EEE7;
+
+// Typography Colors
+$heading: #2F3A2F;
+$text: #5F6E63;
+$text-light: #8A948D;
+
+// Optional Status Colors
+$success: #6F8F72;
+$warning: #D8B76A;
+$error: #B85C5C;
+
+// Optional Shadow
+$shadow-color: rgba(47, 58, 47, 0.08);
 
 /*
     ---------------------
